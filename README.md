@@ -2,4 +2,4 @@
 - 👀 I'm looking to switch career to tech after 10 years working in Further and Higher Education in the UK.
 - 📜 I have learnt mySQL, HTML, CSS, JavsScript, Bootstrap, Python, Ruby.
 - 🏫 Currently registered with The Open University, working towards Cisco DevNet Associate Certification. 
-- 📫 How to reach me jessicawenjia.knight@gmail.com
+- 📫 How to reach me knight.wenjia@gmail.com
