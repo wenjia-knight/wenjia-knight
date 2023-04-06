@@ -8,9 +8,9 @@
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Repository stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=wenjia-knight&hide=stars&hide_rank=true&show_icons=true)
