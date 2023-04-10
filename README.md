@@ -13,6 +13,6 @@
 ![Javascript](https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Repository stats
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=wenjia-knight&hide=stars&hide_rank=true&show_icons=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=wenjia-knight&count_private=true&hide=stars&hide_rank=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenjia-knight&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
