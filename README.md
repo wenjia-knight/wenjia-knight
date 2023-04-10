@@ -15,4 +15,6 @@
 ### Repository stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=wenjia-knight&count_private=true&hide=stars&hide_rank=true&show_icons=true)
 
+[![wenjia-knight's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wenjia-knight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenjia-knight&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
